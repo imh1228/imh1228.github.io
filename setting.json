@@ -1,0 +1,44 @@
+{
+    "title": "imhの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "imh,个人主页",
+    "author": "imh",
+    "logo_img": "img/icon/logo.img",
+    "logo_text_1": "imh",
+    "logo_text_2": "yyds",
+    "qq": "https://res.abeim.cn/api/qq/?qq=3446914493https://res.abeim.cn/api/qq/?qq=3446914493",
+    "email": "3446914493@qq.com",
+    "bilibili": "1373921239",
+    "link_1": [
+        "https://abc.imhxi.cn/",
+        "fa-solid fa-blog",
+        "光遇查身高"
+    ],
+    "link_2": [
+        "https://api.t1qq.com/api/sky/gy/sc/tlonsky/json/mrrw.jpg",
+        "fa-solid fa-cloud",
+        "每日任务"
+    ],
+    "link_3": [
+        "https://api.t1qq.com/api/sky/gy/sc/tlonsky/json/scdl.jpg",
+        "fa-solid fa-music",
+        "每日大蜡"
+    ],
+    "link_4": [
+        "https://api.t1qq.com/api/sky/gy/sc/tlonsky/json/scjl.jpg",
+        "fa-solid fa-compass",
+        "每日季蜡"
+    ],
+    "link_5": [
+        "https://api.t1qq.com/api/sky/gy/sc/json/mf.jpg",
+        "fa-solid fa-book-bookmark",
+        "每日魔法"
+    ],
+    "link_6": [
+        "https://sky.imhxi.xyz/",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "Copyright_text": "imh"
+
+}
